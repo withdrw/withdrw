@@ -3,7 +3,7 @@
 
 
 
-- 🎮 I’m currently working on [Gamiki](https://github.com/withdrw/Gamiki)
+- 🎮 I’m currently working on [Ethrify](https://github.com/withdrw/Ethrify)
 
 - 👨‍💻 I’m looking **for a position in Frontend Web Design & Backend.**
 

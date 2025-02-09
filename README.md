@@ -3,8 +3,6 @@
 
 
 
-- 🎮 I’m currently working on [Ethrify](https://github.com/withdrw/Ethrify)
-
 - 👨‍💻 I’m looking **for a position in Frontend Web Design & Backend.**
 
 - 👨‍💻 All of my projects are available at [https://advanced-port.vercel.app/](https://advanced-port.vercel.app/)

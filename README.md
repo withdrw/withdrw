@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Fullstack Developer</h3>
 
 
+- 👨‍💻 I’m currently learning python.**
 
 - 👨‍💻 I’m looking **for a position in Frontend Web Design & Backend.**
 

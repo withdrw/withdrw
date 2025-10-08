@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Syed Zaidi</h1>
+<h1 align="center">Hi 👋, I'm Syed </h1>
 <h3 align="center">A passionate Fullstack Developer</h3>
 
 
